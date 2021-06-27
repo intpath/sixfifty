@@ -12,3 +12,8 @@
 	path = intpath/pos_order_sync
 	url = git@github.com:intpath/pos_order_sync.git
 	branch = master
+
+[submodule "intpath/pos_receipt_font"]
+	path = intpath/pos_receipt_font
+	url = git@github.com:intpath/pos_receipt_font.git
+	branch = master
