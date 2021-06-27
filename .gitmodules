@@ -17,3 +17,8 @@
 	path = intpath/pos_receipt_font
 	url = git@github.com:intpath/pos_receipt_font.git
 	branch = master
+
+[submodule "intpath/sh_print_journal_entries"]
+	path = intpath/sh_print_journal_entries
+	url = git@github.com:intpath/sh_print_journal_entries.git
+	branch = master
