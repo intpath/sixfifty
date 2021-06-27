@@ -7,3 +7,8 @@
 	path = intpath/pos_disable_all
 	url = git@github.com:intpath/pos_disable_all.git
 	branch = master
+
+[submodule "intpath/pos_order_sync"]
+	path = intpath/pos_order_sync
+	url = git@github.com:intpath/pos_order_sync.git
+	branch = master
