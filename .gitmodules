@@ -22,3 +22,8 @@
 	path = intpath/sh_print_journal_entries
 	url = git@github.com:intpath/sh_print_journal_entries.git
 	branch = master
+
+[submodule "intpath/six_fifty_reports"]
+	path = intpath/six_fifty_reports
+	url = git@github.com:intpath/six_fifty_reports.git
+	branch = master
